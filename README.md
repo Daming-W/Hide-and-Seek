@@ -1,6 +1,6 @@
-Title: Learning To Play Hide-and-Seek
+Research Project Topic: Learning To Play Hide-and-Seek
 
-Author:Daming Wang
+Author: Daming Wang
 
 Supervisor: Dr.Michael Burke
 
@@ -11,3 +11,5 @@ The proposed approach is an image temporal ranking approach of learning the late
 Further, the ranking models have experimented on different scenarios test videos. The benefits of the probabilistic approach are investigated in natural images, which make the model more conservative than deterministic models. 
 
 In addition, to improve the ranking models performance, the transfer learning study takes different convolutional neural network models for the feature extraction to discovers the better options. 
+
+More Detail in Uploaded Poster...
